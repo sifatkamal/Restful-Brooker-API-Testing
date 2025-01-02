@@ -1,0 +1,27 @@
+{
+	"id": "f6d8248f-5c60-4707-b076-71989583bfb4",
+	"name": "Restful Brooker",
+	"values": [
+		{
+			"key": "url",
+			"value": "https://restful-booker.herokuapp.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-01-02T13:46:27.853Z",
+	"_postman_exported_using": "Postman/11.23.3"
+}
