@@ -2,7 +2,7 @@
 
 ## About this Project
 
-### In this project I have automated Restful Brooker API with Postman and Newman. Restful Brooker is a demo booking project to test API. Here as an admin, I have retrieved all booking IDs, particular user info with ID, Added user info, Updated and partially updated user info, and Deleted User info.
+<p> In this project I have automated Restful Brooker API with Postman and Newman. Restful Brooker is a demo booking project to test API. Here as an admin, I have retrieved all booking IDs, particular user info with ID, Added user info, Updated and partially updated user info, and Deleted User info.</p>
 
 ## Tools & Technologies
 - Postman
